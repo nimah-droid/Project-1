@@ -1,2 +1,7 @@
 # Project-1
-Good stuffs resides here
+DataCleanse
+DataCleanse is a Python library designed to simplify the preprocessing of messy datasets. It offers tools for missing value handling, outlier detection, normalization, and more.
+
+## Installation
+```bash
+pip install datacleanse
